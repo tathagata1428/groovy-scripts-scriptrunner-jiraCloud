@@ -4,7 +4,7 @@ from requests.auth import HTTPBasicAuth
 # Replace the following with your actual values
 your_domain = "test.atlassain.net" # enter your Atlassian domain
 email = "bogdan.radu@b4it.ro" # enter the email address used to generate the API token
-api_token = "ATATT3xFfGF00T1MS82s_Drswgzm4JVSr6xDUIQlwfYFovY0XdncCaSxb2xOCtth1JERxHQXzqN_L8bKv8qx_W71PtFyhuqhv52Cr6XhoCDrtqc4ba2xHbqmV9qAzyxQiqgNTRdJ7VzFr2qQZaPJA7EDHA6jug7orvhvMp5SI31dfpHonpQoJ8k=9653A108"
+api_token = "ATATT3xFfGF00T1MS82s_Drswgzm4JVSr6xDUIQlwfYFovY0XdncCaSxb2xOCtth1JERxHQXzqN_L8bKv8qx_W71PtFyhuqhv52Cr6XhoCDrtqc4ba2xHbqmV9qAzyxQiqgNTRdJ7VzFr2qQZaPJA7EDHA6jug7orvhvM985SI31dfpHonpQoJ8k=9653A108"
 user_email = "remove.user@userToremove.ro"  # The email address of the user to be removed
 
 # Search for the user based on their email address
